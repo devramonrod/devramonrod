@@ -18,6 +18,8 @@ Engenheiro de Software e Desenvolvedor Full Stack Sênior com sólida trajetóri
 
 Atuação de ponta a ponta: do alinhamento executivo de negócio e homologação de arquitetura de software corporativa até a entrega técnica resiliente em produção. Especialista em desacoplamento por eventos, modernização de legados, migração cloud para GCP/Kubernetes e automações determinísticas de alto retorno financeiro.
 
+> **Histórico de Código:** Parte do meu histórico técnico anterior, contribuições e repositórios prévios podem ser consultados no meu perfil legado em [github.com/RamonRodSou](https://github.com/RamonRodSou). Este novo perfil concentra minhas arquiteturas atuais, projetos em produção e novas esteiras de engenharia.
+
 ---
 
 ### Principais Frentes Técnicas
