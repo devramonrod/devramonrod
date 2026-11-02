@@ -71,15 +71,6 @@ Atuação de ponta a ponta: do alinhamento executivo de negócio e homologação
 
 ---
 
-### Estatísticas do Perfil
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_NOVO_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOVO_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ### Contato Profissional
 
 - **LinkedIn:** [linkedin.com/in/ramonrodsouza](https://www.linkedin.com/in/ramonrodsouza/)
